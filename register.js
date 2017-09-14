@@ -1,3 +1,3 @@
 function registr(login,password){
-return "Account was registred"+password+" "+login;
+return "Account was registred"+password+login;
 }
